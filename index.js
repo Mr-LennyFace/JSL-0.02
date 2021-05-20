@@ -27,12 +27,3 @@ var somewordlen = 0;
 
 somewordlen = someword.length;
 console.log(somewordlen);
-
-function wordblanks(myNoun, myAdjective, myVerb, myAdverb) {
-  var result = '';
-  
-
-  return result;
-}
-
-console.log(wordblanks('dog', 'big', 'ran', 'quickly'));
